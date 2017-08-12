@@ -1,0 +1,11 @@
+{
+  "name": "alexaapp",
+  "version": "1.0.0",
+  "description": "Alexa sentiment \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D bitcoin sentiment app",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wojciech Twarog",
+  "license": "ISC"
+}
